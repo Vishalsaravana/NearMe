@@ -196,17 +196,17 @@ struck the seafront in December 2004, the memorial was damaged. Repair works cos
 ```
 
 ## Output:
-![OUTPUT](./screenshots/out1.png)
+![OUTPUT](./out1.png)
 
-![OUTPUT](./screenshots/out2.png)
+![OUTPUT](./out2.png)
 
-![OUTPUT](./screenshots/out3.png)
+![OUTPUT](./out3.png)
 
-![OUTPUT](./screenshots/out4.png)
+![OUTPUT](./out4.png)
 
-![OUTPUT](./screenshots/out5.png)
+![OUTPUT](./out5.png)
 
-![OUTPUT](./screenshots/out6.png)
+![OUTPUT](./out6.png)
 
 ## HTML Validator
 ![HTML Validator](./screenshots/valid.png)
