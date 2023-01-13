@@ -209,7 +209,7 @@ struck the seafront in December 2004, the memorial was damaged. Repair works cos
 ![OUTPUT](./out6.png)
 
 ## HTML Validator
-![HTML Validator](./screenshots/valid.png)
+![HTML Validator](./valid.png)
 
 ## Result:
 The program for implementing image map is executed successfully.
